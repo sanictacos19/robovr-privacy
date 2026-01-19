@@ -1,12 +1,46 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ROBO VR Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 700px;
+            margin: 40px auto;
+            padding: 0 20px;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            color: #1a73e8;
+            text-align: center;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        footer {
+            margin-top: 40px;
+            font-size: 0.9em;
+            text-align: center;
+            color: #555;
+        }
+    </style>
 </head>
 <body>
     <h1>ROBO VR Privacy Policy</h1>
-    <p>Effective Date: 2025-12-27</p>
-    <p>We do not collect, store, or share any personal information from players in the current build.</p>
-<p>If any features are added in future updates that collect personal information, this policy will be updated accordingly.</p>
+    <p><strong>Last Updated:</strong> January 2026</p>
+
+    <p>ROBO VR does not collect personal information from players. No usernames, emails, or other identifying data are recorded.</p>
+
+    <p>Version 1.1 has multiplayer but does not include voice chat or moderation. Multiplayer data is only used temporarily to connect players during gameplay.</p>
+
+    <p>In version 1.2, voice chat and moderation will be added to enhance safety. Reports can be submitted to keep the game environment safe.</p>
+
+    <p>For questions, contact: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+
+    <footer>&copy; 2026 ROBO VR</footer>
 </body>
 </html>
